@@ -25,6 +25,6 @@ tosu/static
 - osu!lazer/osu!stable
 - tosu
 
-## RECOMMENDED
+## Recommended
 - checkout settings page in tosu website for better experience
 
