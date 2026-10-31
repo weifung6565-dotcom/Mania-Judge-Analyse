@@ -1,0 +1,179 @@
+[
+    {
+        "uniqueID": "hGeneral",
+        "type": "header",
+        "title": "General",
+        "description": "",
+        "options": [],
+        "value": ""
+    },
+
+    {
+        "uniqueID": "targetTopRatio",
+        "type": "text",
+        "title": "Target Rainbow300 Ratio",
+        "description": "Target ratio for Rainbow300.",
+        "options": [],
+        "value": "1.000"
+    },
+
+    {
+        "uniqueID": "targetBottomRatio",
+        "type": "text",
+        "title": "Target Equivalent300 Ratio",
+        "description": "Target ratio for Equivalent300.",
+        "options": [],
+        "value": "1.000"
+    },
+
+    {
+        "uniqueID": "showTargetRatio",
+        "type": "checkbox",
+        "title": "Show Target Ratio",
+        "description": "Display target ratio below balance.",
+        "options": [],
+        "value": true
+    },
+
+    {
+        "uniqueID": "showLabel",
+        "type": "checkbox",
+        "title": "Show Labels",
+        "description": "",
+        "options": [],
+        "value": true
+    },
+
+    {
+        "uniqueID": "showBalance",
+        "type": "checkbox",
+        "title": "Show Balance",
+        "description": "",
+        "options": [],
+        "value": true
+    },
+    {
+    "uniqueID": "displayMode",
+    "type": "options",
+    "title": "Display Mode",
+    "description": "Analyzer display mode",
+    "options": [
+        "Gameplay",
+        "Result",
+        "Both"
+    ],
+    "value": "Both"
+     },
+    {
+        "uniqueID": "hEffects",
+        "type": "header",
+        "title": "Effects",
+        "description": "",
+        "options": [],
+        "value": ""
+    },
+
+    {
+        "uniqueID": "enableJudgeColor",
+        "type": "checkbox",
+        "title": "Judge Color",
+        "description": "",
+        "options": [],
+        "value": true
+    },
+
+    {
+        "uniqueID": "enableJudgeGlow",
+        "type": "checkbox",
+        "title": "Judge Glow",
+        "description": "",
+        "options": [],
+        "value": true
+    },
+
+    {
+        "uniqueID": "rainbowMode",
+        "type": "options",
+        "title": "Rainbow Mode",
+        "description": "",
+        "options": [
+            "Animated",
+            "Static",
+            "Off"
+        ],
+        "value": "Animated"
+    },
+
+    {
+        "uniqueID": "enableDangerAnimation",
+        "type": "checkbox",
+        "title": "Danger Animation",
+        "description": "",
+        "options": [],
+        "value": true
+    },
+ 
+        {"uniqueID": "balancecolorinverse",
+        "type": "checkbox",
+        "title": "stock mode",
+        "description": "inverse the color of balance",
+        "options": [],
+        "value": false
+},
+{
+        "uniqueID": "hFront",
+        "type": "header",
+        "title": "Front",
+        "description": "",
+        "options": [],
+        "value": ""
+    },
+{
+    "uniqueID": "labelFontSize",
+    "type": "text",
+    "title": "Label Font Size",
+    "description": "",
+    "options": [],
+    "value": "14"
+},
+{
+    "uniqueID": "ratioFontSize",
+    "type": "text",
+    "title": "Ratio Font Size",
+    "description": "",
+    "options": [],
+    "value": "34"
+},
+{
+    "uniqueID": "balanceFontSize",
+    "type": "text",
+    "title": "Balance Font Size",
+    "description": "",
+    "options": [],
+    "value": "20"
+},
+{
+    "uniqueID": "labelFontWeight",
+    "type": "options",
+    "title": "Label Font Weight",
+    "description": "",
+    "options": [ "normal","semibold","medium","bold"],
+    "value": "normal"
+},
+{
+    "uniqueID": "ratioFontWeight",
+    "type": "options",
+    "title": "Ratio Font Weight",
+    "description": "",
+    "options": [ "normal","semibold","medium","bold"],
+    "value": "bold"
+},
+{
+    "uniqueID": "balanceFontWeight",
+    "type": "options",
+    "title": "Balance Font Weight",
+    "description": "",
+    "options": [ "normal","semibold","medium","bold"],
+    "value": "bold"
+}
+]

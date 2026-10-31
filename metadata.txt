@@ -1,0 +1,7 @@
+Usecase: ingame
+Name: ManiaJudgeAnalyzer
+Author: Weifung
+CompatibleWith: tosu
+Resolution: 180x90
+authorLinks:
+Notes: Displays MAX/300 and MAX/ERR ratios for osu!mania lazer.
