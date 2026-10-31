@@ -1,7 +1,7 @@
 # tosu Mania Ratio Plugin
 
 A tosu plugin for osu mania.
-
+*AI-assisted code creation*
 ## Features
 
 - Mania only
